@@ -1,3 +1,3 @@
-# References
 
-* octocat 1 😈
+## GitHub Training
+Teach everything Git, give out cool stickers, give yourself peace.
